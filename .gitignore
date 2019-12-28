@@ -1,0 +1,10 @@
+/live/
+/logs/
+/target/
+/avatars/
+/backups/
+/database/
+/.idea/
+nb*.xml
+*.conf
+/nbproject/
