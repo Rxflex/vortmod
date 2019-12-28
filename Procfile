@@ -1,0 +1,1 @@
+web: mv /app/target/Vortex-2.3-jar-with-dependencies.jar /app/Vortex-2.3-jar-with-dependencies.jar && cp /app/Vortex-2.3-jar-with-dependencies.jar /app/web/Vortex-2.3-jar-with-dependencies.jar && vendor/bin/heroku-php-apache2 web/
